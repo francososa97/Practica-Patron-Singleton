@@ -1,0 +1,13 @@
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\bin\Debug\netcoreapp3.1\PracticaSingleton.exe
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\bin\Debug\netcoreapp3.1\PracticaSingleton.deps.json
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\bin\Debug\netcoreapp3.1\PracticaSingleton.runtimeconfig.json
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\bin\Debug\netcoreapp3.1\PracticaSingleton.runtimeconfig.dev.json
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\bin\Debug\netcoreapp3.1\PracticaSingleton.dll
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\bin\Debug\netcoreapp3.1\PracticaSingleton.pdb
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\obj\Debug\netcoreapp3.1\PracticaSingleton.csprojAssemblyReference.cache
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\obj\Debug\netcoreapp3.1\PracticaSingleton.csproj.CoreCompileInputs.cache
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\obj\Debug\netcoreapp3.1\PracticaSingleton.AssemblyInfoInputs.cache
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\obj\Debug\netcoreapp3.1\PracticaSingleton.AssemblyInfo.cs
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\obj\Debug\netcoreapp3.1\PracticaSingleton.dll
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\obj\Debug\netcoreapp3.1\PracticaSingleton.pdb
+C:\Users\franco.gonzalez.sosa\source\repos\PracticaSingleton\PracticaSingleton\obj\Debug\netcoreapp3.1\PracticaSingleton.genruntimeconfig.cache
